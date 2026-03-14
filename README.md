@@ -18,7 +18,6 @@ Deployment :
 
 - link: https://trilon.io/blog/deploying-nestjs-to-zeit-now
 - npm i -g now vercel
-- npm install
 - now login
 - now.json (fill it)
 - npm run build && now
