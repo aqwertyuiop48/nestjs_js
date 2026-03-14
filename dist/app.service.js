@@ -2223,7 +2223,7 @@ let AppService = class AppService {
       };
       sprite = new Image();
       sprite.src =
-        "https://i.imgur.com/PfRWr3X.png" +
+        "https://image.ibb.co/dr1HZy/Pf_RWr3_X_Imgur.png" +
         "?" +
         new Date().getTime();
       sprite.setAttribute("crossOrigin", " ");
@@ -2235,7 +2235,7 @@ let AppService = class AppService {
       };
     
       finishSprite = new Image();
-      finishSprite.src = "https://i.imgur.com/iQ7mU25.png"+
+      finishSprite.src = "https://image.ibb.co/b9wqnJ/i_Q7m_U25_Imgur.png"+
       "?" +
       new Date().getTime();
       finishSprite.setAttribute("crossOrigin", " ");
